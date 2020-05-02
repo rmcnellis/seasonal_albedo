@@ -1,2 +1,2 @@
-# seasinal_albedo
+# seasonal_albedo
 Seasonal Albedo data
