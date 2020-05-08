@@ -40,7 +40,7 @@ This file contains minimum, maximum, and average one-minute incoming and reflect
 - *in_rad_max*: maximum one-minute incoming radiation (W m<sup>-2</sup>)
 
 ### /data/seasonal_albedo_site.csv
-This file contains site data including species, planting date, latitude, longitude, leaf area index, soil moisture, plant height, and soil albedo. The specific column information is:
+This file contains site and plot data including species, planting date, latitude, longitude, leaf area index, soil moisture, plant height, and soil albedo. The specific column information is:
 - *date*: the date of measurement, corresponds to *date* column in all other files
 - *DOY*: the measurement day of year
 - *ID*: the sample ID indicating site_species_plot, corresponds to *ID* column in all other files
