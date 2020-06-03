@@ -8,6 +8,7 @@ This repository houses data from a study in the Texas High Plains examining the 
 Risa McNellis (risa.mcnellis@gmail.com) and Nick Smith (nick.gregory.smith@gmail.com)
 
 ## DOI badge
+[![DOI](https://zenodo.org/badge/239601892.svg)](https://zenodo.org/badge/latestdoi/239601892)
 
 ## folder descriptions
 ### /data
